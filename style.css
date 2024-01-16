@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.main{
+    background: color #f2f4f8;
+    align-items: center;
+    height:388px;
+    width:253px;
+    margin-left: 10px;
+}
+.main .save{
+    background-color: #6e2594;
+    color:white;
+    display: inline-block;
+    border-radius: 0 25px 25px 0;
+    width: 100px;
+    height:35px;
+    text-align: center;
+    font-size: 15px;
+    line-height: 30px;
+    
+}
+.main .img{
+    text-align: center;
+}
+.product details a{
+    font-weight=250px;
+    text-align: center;
+}
+
+.price{
+    color: #ef4a23;
+    line-height: 20px;
+    font-size: 21px;
+    font-weight: 800;
+}
+
